@@ -7,9 +7,18 @@ body {
     color: #212121;
     }
 .conteudo {
-    width: 50%;
+    width: 45%;
     background-color: #fff;
     margin-left: 10%;
     border: solid 25px #fff;
     border-radius: 3px;
+    display: inline-block;
     }
+.lateral {
+    width: 30;
+    background-color: #fff;
+    margin-left: 10%;    
+    border: solid 25px #fff;
+    border-radius: 3px;
+    display: inline-block;
+}
