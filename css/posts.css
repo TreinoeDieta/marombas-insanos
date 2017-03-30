@@ -23,3 +23,6 @@ body {
     display: inline-block;
     vertical-align: top;
 }
+a {
+    text-decoration: none;
+}
