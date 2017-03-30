@@ -17,8 +17,9 @@ body {
 .lateral {
     width: 20%;
     background-color: #fff;
-    margin-left: 10%;    
+    margin-left: 8%;    
     border: solid 25px #fff;
     border-radius: 3px;
     display: inline-block;
+    vertical-align: top;
 }
